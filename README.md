@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharateeq01&label=Profile%20views&color=0e75b6&style=flat" alt="atharateeq01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharateeq01" alt="atharateeq01" /></a> </p>
-
 - 🔭 I’m currently working on **intelytics**
 
 - 🌱 I’m currently learning **Nest.js**
@@ -20,6 +18,8 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/16R7k6HFAbMdpDbweWEurH5F7IiDV8bpM?usp=sharing](https://drive.google.com/drive/folders/16R7k6HFAbMdpDbweWEurH5F7IiDV8bpM?usp=sharing)
 
 - ⚡ Fun fact **I'm a backend developer who can think he can code.**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharateeq01" alt="atharateeq01" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
